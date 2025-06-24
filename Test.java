@@ -7,6 +7,7 @@ public class Test{
         System.out.println("Hello Everyone My 1st Java Project");
         System.out.println("Hello my intial commit to github using github desktop");
         System.out.println("Hello my 2nd commit to github using github desktop");
+        System.out.println("Pushing to github using github desktop and automatically building using jenkins");
 
     }
 }
